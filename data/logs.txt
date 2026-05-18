@@ -1,0 +1,10 @@
+ERROR 404 tiempo:0.34
+ERROR 500 tiempo:1.20
+ERROR 403 tiempo:0.89
+ERROR 200 tiempo:0.12
+ERROR 503 tiempo:2.01
+ERROR 401 tiempo:0.56
+ERROR 500 tiempo:1.75
+ERROR 404 tiempo:0.43
+ERROR 502 tiempo:1.10
+ERROR 200 tiempo:0.09

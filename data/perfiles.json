@@ -1,0 +1,9002 @@
+[
+  {
+    "id_cliente": 100,
+    "edad": 55,
+    "ingresos": 28348,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 101,
+    "edad": 46,
+    "ingresos": 28013,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 102,
+    "edad": 69,
+    "ingresos": 28828,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 103,
+    "edad": 33,
+    "ingresos": 14673,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 104,
+    "edad": 60,
+    "ingresos": 6907,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 105,
+    "edad": 47,
+    "ingresos": 12567,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 106,
+    "edad": 33,
+    "ingresos": 19242,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 107,
+    "edad": 40,
+    "ingresos": 42526,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 108,
+    "edad": 68,
+    "ingresos": 45453,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 109,
+    "edad": 68,
+    "ingresos": 41010,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 110,
+    "edad": 68,
+    "ingresos": 29544,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 111,
+    "edad": 26,
+    "ingresos": 20718,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 112,
+    "edad": 26,
+    "ingresos": 8239,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 113,
+    "edad": 40,
+    "ingresos": 41048,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 114,
+    "edad": 69,
+    "ingresos": 45320,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 115,
+    "edad": 61,
+    "ingresos": 17429,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 116,
+    "edad": 49,
+    "ingresos": 17218,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 117,
+    "edad": 31,
+    "ingresos": 26970,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 118,
+    "edad": 56,
+    "ingresos": 49951,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 119,
+    "edad": 37,
+    "ingresos": 7725,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 120,
+    "edad": 35,
+    "ingresos": 48746,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 121,
+    "edad": 21,
+    "ingresos": 5502,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 122,
+    "edad": 47,
+    "ingresos": 20366,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 123,
+    "edad": 66,
+    "ingresos": 9333,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 124,
+    "edad": 43,
+    "ingresos": 7174,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 125,
+    "edad": 55,
+    "ingresos": 9252,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 126,
+    "edad": 25,
+    "ingresos": 29254,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 127,
+    "edad": 68,
+    "ingresos": 17123,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 128,
+    "edad": 22,
+    "ingresos": 20397,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 129,
+    "edad": 54,
+    "ingresos": 8913,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 130,
+    "edad": 36,
+    "ingresos": 42068,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 131,
+    "edad": 66,
+    "ingresos": 6221,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 132,
+    "edad": 21,
+    "ingresos": 38379,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 133,
+    "edad": 31,
+    "ingresos": 27215,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 134,
+    "edad": 29,
+    "ingresos": 33016,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 135,
+    "edad": 48,
+    "ingresos": 16024,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 136,
+    "edad": 47,
+    "ingresos": 34870,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 137,
+    "edad": 28,
+    "ingresos": 34771,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 138,
+    "edad": 35,
+    "ingresos": 33106,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 139,
+    "edad": 36,
+    "ingresos": 6164,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 140,
+    "edad": 35,
+    "ingresos": 32768,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 141,
+    "edad": 35,
+    "ingresos": 8654,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 142,
+    "edad": 33,
+    "ingresos": 48617,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 143,
+    "edad": 43,
+    "ingresos": 11198,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 144,
+    "edad": 50,
+    "ingresos": 5384,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 145,
+    "edad": 22,
+    "ingresos": 8867,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 146,
+    "edad": 38,
+    "ingresos": 22955,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 147,
+    "edad": 29,
+    "ingresos": 37919,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 148,
+    "edad": 65,
+    "ingresos": 21144,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 149,
+    "edad": 19,
+    "ingresos": 29929,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 150,
+    "edad": 50,
+    "ingresos": 45720,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 151,
+    "edad": 39,
+    "ingresos": 34950,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 152,
+    "edad": 34,
+    "ingresos": 46639,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 153,
+    "edad": 70,
+    "ingresos": 16952,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 154,
+    "edad": 60,
+    "ingresos": 30880,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 155,
+    "edad": 40,
+    "ingresos": 45345,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 156,
+    "edad": 23,
+    "ingresos": 36860,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 157,
+    "edad": 34,
+    "ingresos": 30930,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 158,
+    "edad": 39,
+    "ingresos": 29067,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 159,
+    "edad": 19,
+    "ingresos": 12979,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 160,
+    "edad": 47,
+    "ingresos": 42528,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 161,
+    "edad": 33,
+    "ingresos": 24945,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 162,
+    "edad": 64,
+    "ingresos": 5376,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 163,
+    "edad": 25,
+    "ingresos": 12981,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 164,
+    "edad": 29,
+    "ingresos": 42469,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 165,
+    "edad": 18,
+    "ingresos": 32045,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 166,
+    "edad": 50,
+    "ingresos": 11264,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 167,
+    "edad": 42,
+    "ingresos": 34097,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 168,
+    "edad": 56,
+    "ingresos": 48501,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 169,
+    "edad": 28,
+    "ingresos": 36607,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 170,
+    "edad": 58,
+    "ingresos": 48294,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 171,
+    "edad": 22,
+    "ingresos": 26557,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 172,
+    "edad": 53,
+    "ingresos": 9569,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 173,
+    "edad": 50,
+    "ingresos": 11925,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 174,
+    "edad": 69,
+    "ingresos": 33036,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 175,
+    "edad": 56,
+    "ingresos": 9885,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 176,
+    "edad": 50,
+    "ingresos": 19970,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 177,
+    "edad": 31,
+    "ingresos": 32347,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 178,
+    "edad": 50,
+    "ingresos": 21420,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 179,
+    "edad": 26,
+    "ingresos": 24742,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 180,
+    "edad": 20,
+    "ingresos": 13354,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 181,
+    "edad": 57,
+    "ingresos": 21600,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 182,
+    "edad": 65,
+    "ingresos": 37622,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 183,
+    "edad": 46,
+    "ingresos": 8617,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 184,
+    "edad": 41,
+    "ingresos": 20689,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 185,
+    "edad": 28,
+    "ingresos": 27973,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 186,
+    "edad": 43,
+    "ingresos": 15237,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 187,
+    "edad": 51,
+    "ingresos": 39552,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 188,
+    "edad": 28,
+    "ingresos": 34198,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 189,
+    "edad": 52,
+    "ingresos": 19269,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 190,
+    "edad": 34,
+    "ingresos": 45109,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 191,
+    "edad": 44,
+    "ingresos": 24324,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 192,
+    "edad": 47,
+    "ingresos": 22450,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 193,
+    "edad": 48,
+    "ingresos": 38465,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 194,
+    "edad": 61,
+    "ingresos": 49050,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 195,
+    "edad": 30,
+    "ingresos": 5741,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 196,
+    "edad": 30,
+    "ingresos": 17526,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 197,
+    "edad": 57,
+    "ingresos": 28758,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 198,
+    "edad": 40,
+    "ingresos": 29131,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 199,
+    "edad": 26,
+    "ingresos": 9361,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 200,
+    "edad": 54,
+    "ingresos": 16785,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 201,
+    "edad": 35,
+    "ingresos": 7331,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 202,
+    "edad": 59,
+    "ingresos": 9974,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 203,
+    "edad": 55,
+    "ingresos": 5710,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 204,
+    "edad": 51,
+    "ingresos": 43885,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 205,
+    "edad": 53,
+    "ingresos": 11468,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 206,
+    "edad": 68,
+    "ingresos": 13699,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 207,
+    "edad": 45,
+    "ingresos": 24280,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 208,
+    "edad": 50,
+    "ingresos": 31107,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 209,
+    "edad": 40,
+    "ingresos": 38394,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 210,
+    "edad": 63,
+    "ingresos": 46100,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 211,
+    "edad": 30,
+    "ingresos": 18876,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 212,
+    "edad": 34,
+    "ingresos": 48275,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 213,
+    "edad": 70,
+    "ingresos": 13596,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 214,
+    "edad": 22,
+    "ingresos": 14476,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 215,
+    "edad": 40,
+    "ingresos": 34954,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 216,
+    "edad": 67,
+    "ingresos": 36216,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 217,
+    "edad": 25,
+    "ingresos": 28398,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 218,
+    "edad": 68,
+    "ingresos": 44682,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 219,
+    "edad": 39,
+    "ingresos": 24334,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 220,
+    "edad": 54,
+    "ingresos": 12707,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 221,
+    "edad": 49,
+    "ingresos": 17704,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 222,
+    "edad": 36,
+    "ingresos": 40596,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 223,
+    "edad": 38,
+    "ingresos": 12125,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 224,
+    "edad": 49,
+    "ingresos": 32630,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 225,
+    "edad": 48,
+    "ingresos": 18866,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 226,
+    "edad": 50,
+    "ingresos": 33184,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 227,
+    "edad": 33,
+    "ingresos": 21362,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 228,
+    "edad": 55,
+    "ingresos": 21616,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 229,
+    "edad": 21,
+    "ingresos": 28582,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 230,
+    "edad": 69,
+    "ingresos": 43688,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 231,
+    "edad": 40,
+    "ingresos": 30527,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 232,
+    "edad": 59,
+    "ingresos": 40263,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 233,
+    "edad": 46,
+    "ingresos": 37903,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 234,
+    "edad": 45,
+    "ingresos": 32600,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 235,
+    "edad": 62,
+    "ingresos": 45139,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 236,
+    "edad": 58,
+    "ingresos": 8405,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 237,
+    "edad": 51,
+    "ingresos": 14548,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 238,
+    "edad": 21,
+    "ingresos": 40857,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 239,
+    "edad": 29,
+    "ingresos": 47935,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 240,
+    "edad": 45,
+    "ingresos": 27926,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 241,
+    "edad": 55,
+    "ingresos": 14372,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 242,
+    "edad": 29,
+    "ingresos": 21760,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 243,
+    "edad": 62,
+    "ingresos": 15248,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 244,
+    "edad": 31,
+    "ingresos": 25272,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 245,
+    "edad": 26,
+    "ingresos": 25294,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 246,
+    "edad": 24,
+    "ingresos": 43613,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 247,
+    "edad": 70,
+    "ingresos": 13590,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 248,
+    "edad": 40,
+    "ingresos": 30221,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 249,
+    "edad": 42,
+    "ingresos": 42743,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 250,
+    "edad": 26,
+    "ingresos": 7648,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 251,
+    "edad": 70,
+    "ingresos": 47086,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 252,
+    "edad": 19,
+    "ingresos": 11253,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 253,
+    "edad": 49,
+    "ingresos": 23502,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 254,
+    "edad": 18,
+    "ingresos": 9881,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 255,
+    "edad": 63,
+    "ingresos": 24368,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 256,
+    "edad": 63,
+    "ingresos": 31631,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 257,
+    "edad": 58,
+    "ingresos": 41521,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 258,
+    "edad": 26,
+    "ingresos": 37275,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 259,
+    "edad": 26,
+    "ingresos": 39672,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 260,
+    "edad": 52,
+    "ingresos": 24437,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 261,
+    "edad": 63,
+    "ingresos": 13938,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 262,
+    "edad": 38,
+    "ingresos": 13136,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 263,
+    "edad": 49,
+    "ingresos": 49750,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 264,
+    "edad": 28,
+    "ingresos": 42101,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 265,
+    "edad": 54,
+    "ingresos": 16786,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 266,
+    "edad": 33,
+    "ingresos": 25794,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 267,
+    "edad": 60,
+    "ingresos": 13947,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 268,
+    "edad": 50,
+    "ingresos": 25460,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 269,
+    "edad": 51,
+    "ingresos": 44771,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 270,
+    "edad": 54,
+    "ingresos": 44273,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 271,
+    "edad": 68,
+    "ingresos": 26681,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 272,
+    "edad": 22,
+    "ingresos": 6791,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 273,
+    "edad": 47,
+    "ingresos": 11225,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 274,
+    "edad": 27,
+    "ingresos": 44639,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 275,
+    "edad": 36,
+    "ingresos": 42342,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 276,
+    "edad": 33,
+    "ingresos": 14866,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 277,
+    "edad": 18,
+    "ingresos": 15295,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 278,
+    "edad": 61,
+    "ingresos": 37799,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 279,
+    "edad": 67,
+    "ingresos": 44017,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 280,
+    "edad": 20,
+    "ingresos": 44135,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 281,
+    "edad": 60,
+    "ingresos": 16788,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 282,
+    "edad": 31,
+    "ingresos": 17616,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 283,
+    "edad": 53,
+    "ingresos": 30881,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 284,
+    "edad": 43,
+    "ingresos": 47892,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 285,
+    "edad": 43,
+    "ingresos": 48723,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 286,
+    "edad": 21,
+    "ingresos": 9847,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 287,
+    "edad": 64,
+    "ingresos": 27578,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 288,
+    "edad": 46,
+    "ingresos": 48228,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 289,
+    "edad": 52,
+    "ingresos": 33533,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 290,
+    "edad": 70,
+    "ingresos": 31891,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 291,
+    "edad": 47,
+    "ingresos": 18759,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 292,
+    "edad": 21,
+    "ingresos": 13225,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 293,
+    "edad": 57,
+    "ingresos": 20878,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 294,
+    "edad": 30,
+    "ingresos": 10238,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 295,
+    "edad": 23,
+    "ingresos": 47666,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 296,
+    "edad": 64,
+    "ingresos": 20466,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 297,
+    "edad": 41,
+    "ingresos": 11507,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 298,
+    "edad": 47,
+    "ingresos": 22282,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 299,
+    "edad": 30,
+    "ingresos": 46960,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 300,
+    "edad": 21,
+    "ingresos": 14928,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 301,
+    "edad": 60,
+    "ingresos": 33203,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 302,
+    "edad": 33,
+    "ingresos": 37669,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 303,
+    "edad": 61,
+    "ingresos": 22665,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 304,
+    "edad": 65,
+    "ingresos": 48435,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 305,
+    "edad": 37,
+    "ingresos": 33959,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 306,
+    "edad": 22,
+    "ingresos": 44637,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 307,
+    "edad": 40,
+    "ingresos": 24851,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 308,
+    "edad": 65,
+    "ingresos": 35395,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 309,
+    "edad": 38,
+    "ingresos": 5970,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 310,
+    "edad": 25,
+    "ingresos": 42276,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 311,
+    "edad": 59,
+    "ingresos": 33496,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 312,
+    "edad": 42,
+    "ingresos": 36293,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 313,
+    "edad": 36,
+    "ingresos": 42744,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 314,
+    "edad": 26,
+    "ingresos": 16404,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 315,
+    "edad": 26,
+    "ingresos": 24150,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 316,
+    "edad": 20,
+    "ingresos": 44003,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 317,
+    "edad": 51,
+    "ingresos": 39472,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 318,
+    "edad": 56,
+    "ingresos": 31823,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 319,
+    "edad": 19,
+    "ingresos": 13328,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 320,
+    "edad": 51,
+    "ingresos": 34576,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 321,
+    "edad": 48,
+    "ingresos": 19456,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 322,
+    "edad": 65,
+    "ingresos": 14072,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 323,
+    "edad": 28,
+    "ingresos": 25275,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 324,
+    "edad": 54,
+    "ingresos": 22304,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 325,
+    "edad": 62,
+    "ingresos": 7446,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 326,
+    "edad": 19,
+    "ingresos": 5216,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 327,
+    "edad": 48,
+    "ingresos": 47884,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 328,
+    "edad": 18,
+    "ingresos": 37267,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 329,
+    "edad": 45,
+    "ingresos": 44925,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 330,
+    "edad": 30,
+    "ingresos": 48163,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 331,
+    "edad": 66,
+    "ingresos": 36724,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 332,
+    "edad": 64,
+    "ingresos": 37179,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 333,
+    "edad": 49,
+    "ingresos": 18568,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 334,
+    "edad": 46,
+    "ingresos": 15328,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 335,
+    "edad": 64,
+    "ingresos": 17083,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 336,
+    "edad": 24,
+    "ingresos": 27328,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 337,
+    "edad": 19,
+    "ingresos": 7411,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 338,
+    "edad": 59,
+    "ingresos": 37145,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 339,
+    "edad": 18,
+    "ingresos": 49678,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 340,
+    "edad": 69,
+    "ingresos": 34951,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 341,
+    "edad": 36,
+    "ingresos": 25105,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 342,
+    "edad": 67,
+    "ingresos": 7766,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 343,
+    "edad": 20,
+    "ingresos": 7803,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 344,
+    "edad": 46,
+    "ingresos": 13424,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 345,
+    "edad": 65,
+    "ingresos": 45496,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 346,
+    "edad": 22,
+    "ingresos": 21463,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 347,
+    "edad": 41,
+    "ingresos": 24119,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 348,
+    "edad": 53,
+    "ingresos": 35097,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 349,
+    "edad": 56,
+    "ingresos": 15118,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 350,
+    "edad": 36,
+    "ingresos": 16031,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 351,
+    "edad": 39,
+    "ingresos": 6536,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 352,
+    "edad": 22,
+    "ingresos": 15893,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 353,
+    "edad": 27,
+    "ingresos": 13226,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 354,
+    "edad": 58,
+    "ingresos": 18541,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 355,
+    "edad": 67,
+    "ingresos": 19689,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 356,
+    "edad": 38,
+    "ingresos": 20836,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 357,
+    "edad": 25,
+    "ingresos": 28668,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 358,
+    "edad": 35,
+    "ingresos": 41904,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 359,
+    "edad": 39,
+    "ingresos": 17116,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 360,
+    "edad": 53,
+    "ingresos": 12059,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 361,
+    "edad": 48,
+    "ingresos": 12947,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 362,
+    "edad": 24,
+    "ingresos": 21983,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 363,
+    "edad": 19,
+    "ingresos": 23089,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 364,
+    "edad": 50,
+    "ingresos": 19387,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 365,
+    "edad": 60,
+    "ingresos": 27751,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 366,
+    "edad": 51,
+    "ingresos": 26185,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 367,
+    "edad": 33,
+    "ingresos": 8019,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 368,
+    "edad": 36,
+    "ingresos": 34493,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 369,
+    "edad": 56,
+    "ingresos": 41762,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 370,
+    "edad": 66,
+    "ingresos": 43766,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 371,
+    "edad": 38,
+    "ingresos": 42633,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 372,
+    "edad": 52,
+    "ingresos": 31299,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 373,
+    "edad": 41,
+    "ingresos": 48825,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 374,
+    "edad": 30,
+    "ingresos": 41826,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 375,
+    "edad": 18,
+    "ingresos": 24001,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 376,
+    "edad": 48,
+    "ingresos": 41456,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 377,
+    "edad": 44,
+    "ingresos": 47659,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 378,
+    "edad": 27,
+    "ingresos": 43054,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 379,
+    "edad": 66,
+    "ingresos": 23621,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 380,
+    "edad": 68,
+    "ingresos": 41281,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 381,
+    "edad": 63,
+    "ingresos": 44859,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 382,
+    "edad": 19,
+    "ingresos": 49862,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 383,
+    "edad": 32,
+    "ingresos": 9162,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 384,
+    "edad": 48,
+    "ingresos": 47930,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 385,
+    "edad": 48,
+    "ingresos": 6655,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 386,
+    "edad": 47,
+    "ingresos": 16904,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 387,
+    "edad": 20,
+    "ingresos": 42190,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 388,
+    "edad": 55,
+    "ingresos": 18820,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 389,
+    "edad": 18,
+    "ingresos": 12333,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 390,
+    "edad": 27,
+    "ingresos": 12783,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 391,
+    "edad": 55,
+    "ingresos": 27010,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 392,
+    "edad": 35,
+    "ingresos": 46514,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 393,
+    "edad": 53,
+    "ingresos": 10135,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 394,
+    "edad": 32,
+    "ingresos": 39110,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 395,
+    "edad": 39,
+    "ingresos": 26504,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 396,
+    "edad": 27,
+    "ingresos": 30594,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 397,
+    "edad": 37,
+    "ingresos": 15051,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 398,
+    "edad": 66,
+    "ingresos": 47288,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 399,
+    "edad": 64,
+    "ingresos": 17996,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 400,
+    "edad": 48,
+    "ingresos": 48274,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 401,
+    "edad": 40,
+    "ingresos": 24518,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 402,
+    "edad": 21,
+    "ingresos": 25777,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 403,
+    "edad": 26,
+    "ingresos": 26234,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 404,
+    "edad": 18,
+    "ingresos": 19954,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 405,
+    "edad": 20,
+    "ingresos": 16979,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 406,
+    "edad": 36,
+    "ingresos": 7492,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 407,
+    "edad": 40,
+    "ingresos": 41949,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 408,
+    "edad": 51,
+    "ingresos": 8901,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 409,
+    "edad": 55,
+    "ingresos": 48574,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 410,
+    "edad": 54,
+    "ingresos": 18943,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 411,
+    "edad": 24,
+    "ingresos": 33926,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 412,
+    "edad": 68,
+    "ingresos": 25947,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 413,
+    "edad": 33,
+    "ingresos": 12494,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 414,
+    "edad": 49,
+    "ingresos": 27938,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 415,
+    "edad": 26,
+    "ingresos": 21309,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 416,
+    "edad": 25,
+    "ingresos": 25099,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 417,
+    "edad": 22,
+    "ingresos": 6571,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 418,
+    "edad": 49,
+    "ingresos": 29868,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 419,
+    "edad": 20,
+    "ingresos": 34322,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 420,
+    "edad": 28,
+    "ingresos": 12735,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 421,
+    "edad": 18,
+    "ingresos": 6593,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 422,
+    "edad": 63,
+    "ingresos": 38996,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 423,
+    "edad": 69,
+    "ingresos": 43204,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 424,
+    "edad": 52,
+    "ingresos": 49220,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 425,
+    "edad": 67,
+    "ingresos": 15674,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 426,
+    "edad": 39,
+    "ingresos": 14913,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 427,
+    "edad": 30,
+    "ingresos": 27014,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 428,
+    "edad": 65,
+    "ingresos": 29867,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 429,
+    "edad": 49,
+    "ingresos": 21866,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 430,
+    "edad": 34,
+    "ingresos": 10287,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 431,
+    "edad": 48,
+    "ingresos": 43337,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 432,
+    "edad": 51,
+    "ingresos": 19268,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 433,
+    "edad": 51,
+    "ingresos": 5048,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 434,
+    "edad": 58,
+    "ingresos": 24400,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 435,
+    "edad": 34,
+    "ingresos": 12503,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 436,
+    "edad": 43,
+    "ingresos": 31882,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 437,
+    "edad": 56,
+    "ingresos": 21650,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 438,
+    "edad": 68,
+    "ingresos": 18820,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 439,
+    "edad": 35,
+    "ingresos": 35981,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 440,
+    "edad": 49,
+    "ingresos": 22824,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 441,
+    "edad": 47,
+    "ingresos": 38587,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 442,
+    "edad": 27,
+    "ingresos": 26982,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 443,
+    "edad": 64,
+    "ingresos": 26892,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 444,
+    "edad": 63,
+    "ingresos": 24114,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 445,
+    "edad": 51,
+    "ingresos": 23855,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 446,
+    "edad": 39,
+    "ingresos": 13923,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 447,
+    "edad": 46,
+    "ingresos": 12340,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 448,
+    "edad": 30,
+    "ingresos": 44229,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 449,
+    "edad": 27,
+    "ingresos": 36100,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 450,
+    "edad": 69,
+    "ingresos": 32639,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 451,
+    "edad": 39,
+    "ingresos": 43601,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 452,
+    "edad": 20,
+    "ingresos": 32071,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 453,
+    "edad": 65,
+    "ingresos": 23549,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 454,
+    "edad": 59,
+    "ingresos": 28032,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 455,
+    "edad": 24,
+    "ingresos": 20766,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 456,
+    "edad": 54,
+    "ingresos": 34656,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 457,
+    "edad": 36,
+    "ingresos": 35611,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 458,
+    "edad": 41,
+    "ingresos": 40528,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 459,
+    "edad": 64,
+    "ingresos": 12505,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 460,
+    "edad": 50,
+    "ingresos": 10950,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 461,
+    "edad": 46,
+    "ingresos": 8998,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 462,
+    "edad": 18,
+    "ingresos": 41793,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 463,
+    "edad": 44,
+    "ingresos": 49031,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 464,
+    "edad": 24,
+    "ingresos": 28208,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 465,
+    "edad": 58,
+    "ingresos": 10743,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 466,
+    "edad": 26,
+    "ingresos": 30857,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 467,
+    "edad": 48,
+    "ingresos": 38826,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 468,
+    "edad": 28,
+    "ingresos": 5130,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 469,
+    "edad": 62,
+    "ingresos": 43556,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 470,
+    "edad": 24,
+    "ingresos": 7132,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 471,
+    "edad": 50,
+    "ingresos": 21419,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 472,
+    "edad": 68,
+    "ingresos": 39292,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 473,
+    "edad": 40,
+    "ingresos": 9778,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 474,
+    "edad": 24,
+    "ingresos": 37546,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 475,
+    "edad": 24,
+    "ingresos": 9570,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 476,
+    "edad": 58,
+    "ingresos": 37780,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 477,
+    "edad": 36,
+    "ingresos": 14100,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 478,
+    "edad": 44,
+    "ingresos": 26101,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 479,
+    "edad": 28,
+    "ingresos": 25863,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 480,
+    "edad": 50,
+    "ingresos": 14482,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 481,
+    "edad": 52,
+    "ingresos": 5101,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 482,
+    "edad": 62,
+    "ingresos": 23329,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 483,
+    "edad": 18,
+    "ingresos": 36746,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 484,
+    "edad": 37,
+    "ingresos": 46972,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 485,
+    "edad": 21,
+    "ingresos": 19265,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 486,
+    "edad": 61,
+    "ingresos": 8681,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 487,
+    "edad": 49,
+    "ingresos": 5390,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 488,
+    "edad": 52,
+    "ingresos": 14026,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 489,
+    "edad": 59,
+    "ingresos": 29166,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 490,
+    "edad": 57,
+    "ingresos": 46127,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 491,
+    "edad": 68,
+    "ingresos": 15342,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 492,
+    "edad": 18,
+    "ingresos": 23838,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 493,
+    "edad": 57,
+    "ingresos": 15175,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 494,
+    "edad": 27,
+    "ingresos": 15377,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 495,
+    "edad": 27,
+    "ingresos": 34306,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 496,
+    "edad": 54,
+    "ingresos": 40288,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 497,
+    "edad": 26,
+    "ingresos": 43537,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 498,
+    "edad": 65,
+    "ingresos": 13977,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 499,
+    "edad": 58,
+    "ingresos": 27179,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 500,
+    "edad": 69,
+    "ingresos": 7116,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 501,
+    "edad": 63,
+    "ingresos": 21601,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 502,
+    "edad": 31,
+    "ingresos": 33908,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 503,
+    "edad": 61,
+    "ingresos": 11772,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 504,
+    "edad": 24,
+    "ingresos": 30581,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 505,
+    "edad": 25,
+    "ingresos": 10970,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 506,
+    "edad": 19,
+    "ingresos": 22892,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 507,
+    "edad": 24,
+    "ingresos": 38007,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 508,
+    "edad": 29,
+    "ingresos": 41283,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 509,
+    "edad": 60,
+    "ingresos": 37315,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 510,
+    "edad": 61,
+    "ingresos": 30658,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 511,
+    "edad": 22,
+    "ingresos": 44700,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 512,
+    "edad": 62,
+    "ingresos": 24994,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 513,
+    "edad": 20,
+    "ingresos": 40238,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 514,
+    "edad": 28,
+    "ingresos": 46894,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 515,
+    "edad": 21,
+    "ingresos": 15649,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 516,
+    "edad": 20,
+    "ingresos": 30327,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 517,
+    "edad": 25,
+    "ingresos": 29470,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 518,
+    "edad": 36,
+    "ingresos": 11113,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 519,
+    "edad": 30,
+    "ingresos": 26069,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 520,
+    "edad": 70,
+    "ingresos": 7445,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 521,
+    "edad": 39,
+    "ingresos": 45573,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 522,
+    "edad": 57,
+    "ingresos": 40186,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 523,
+    "edad": 68,
+    "ingresos": 21806,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 524,
+    "edad": 53,
+    "ingresos": 26303,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 525,
+    "edad": 20,
+    "ingresos": 6000,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 526,
+    "edad": 61,
+    "ingresos": 20518,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 527,
+    "edad": 58,
+    "ingresos": 37962,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 528,
+    "edad": 66,
+    "ingresos": 8219,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 529,
+    "edad": 61,
+    "ingresos": 47327,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 530,
+    "edad": 33,
+    "ingresos": 33780,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 531,
+    "edad": 52,
+    "ingresos": 39419,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 532,
+    "edad": 47,
+    "ingresos": 24356,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 533,
+    "edad": 37,
+    "ingresos": 38486,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 534,
+    "edad": 33,
+    "ingresos": 43820,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 535,
+    "edad": 68,
+    "ingresos": 44701,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 536,
+    "edad": 50,
+    "ingresos": 11840,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 537,
+    "edad": 58,
+    "ingresos": 21098,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 538,
+    "edad": 24,
+    "ingresos": 36010,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 539,
+    "edad": 21,
+    "ingresos": 23009,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 540,
+    "edad": 60,
+    "ingresos": 5826,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 541,
+    "edad": 53,
+    "ingresos": 26954,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 542,
+    "edad": 43,
+    "ingresos": 30573,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 543,
+    "edad": 56,
+    "ingresos": 12485,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 544,
+    "edad": 32,
+    "ingresos": 24179,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 545,
+    "edad": 55,
+    "ingresos": 39594,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 546,
+    "edad": 47,
+    "ingresos": 6750,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 547,
+    "edad": 53,
+    "ingresos": 19249,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 548,
+    "edad": 59,
+    "ingresos": 25095,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 549,
+    "edad": 20,
+    "ingresos": 21671,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 550,
+    "edad": 58,
+    "ingresos": 37004,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 551,
+    "edad": 50,
+    "ingresos": 24592,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 552,
+    "edad": 30,
+    "ingresos": 42032,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 553,
+    "edad": 54,
+    "ingresos": 14244,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 554,
+    "edad": 42,
+    "ingresos": 47882,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 555,
+    "edad": 26,
+    "ingresos": 5290,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 556,
+    "edad": 28,
+    "ingresos": 19206,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 557,
+    "edad": 24,
+    "ingresos": 29655,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 558,
+    "edad": 40,
+    "ingresos": 18902,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 559,
+    "edad": 56,
+    "ingresos": 43259,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 560,
+    "edad": 38,
+    "ingresos": 7556,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 561,
+    "edad": 63,
+    "ingresos": 43008,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 562,
+    "edad": 52,
+    "ingresos": 48575,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 563,
+    "edad": 55,
+    "ingresos": 32782,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 564,
+    "edad": 29,
+    "ingresos": 25491,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 565,
+    "edad": 38,
+    "ingresos": 40470,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 566,
+    "edad": 36,
+    "ingresos": 24471,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 567,
+    "edad": 56,
+    "ingresos": 10979,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 568,
+    "edad": 46,
+    "ingresos": 16242,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 569,
+    "edad": 18,
+    "ingresos": 40453,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 570,
+    "edad": 64,
+    "ingresos": 42550,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 571,
+    "edad": 62,
+    "ingresos": 22816,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 572,
+    "edad": 50,
+    "ingresos": 22862,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 573,
+    "edad": 35,
+    "ingresos": 24977,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 574,
+    "edad": 59,
+    "ingresos": 14188,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 575,
+    "edad": 30,
+    "ingresos": 10637,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 576,
+    "edad": 31,
+    "ingresos": 27125,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 577,
+    "edad": 46,
+    "ingresos": 22400,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 578,
+    "edad": 26,
+    "ingresos": 29921,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 579,
+    "edad": 30,
+    "ingresos": 37667,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 580,
+    "edad": 47,
+    "ingresos": 40258,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 581,
+    "edad": 64,
+    "ingresos": 45581,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 582,
+    "edad": 24,
+    "ingresos": 34716,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 583,
+    "edad": 37,
+    "ingresos": 24695,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 584,
+    "edad": 23,
+    "ingresos": 27207,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 585,
+    "edad": 39,
+    "ingresos": 6751,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 586,
+    "edad": 69,
+    "ingresos": 38882,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 587,
+    "edad": 19,
+    "ingresos": 7873,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 588,
+    "edad": 40,
+    "ingresos": 25022,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 589,
+    "edad": 23,
+    "ingresos": 34074,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 590,
+    "edad": 26,
+    "ingresos": 6715,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 591,
+    "edad": 36,
+    "ingresos": 28041,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 592,
+    "edad": 27,
+    "ingresos": 24161,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 593,
+    "edad": 37,
+    "ingresos": 27600,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 594,
+    "edad": 51,
+    "ingresos": 36209,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 595,
+    "edad": 28,
+    "ingresos": 32483,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 596,
+    "edad": 35,
+    "ingresos": 10515,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 597,
+    "edad": 36,
+    "ingresos": 23024,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 598,
+    "edad": 21,
+    "ingresos": 47102,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 599,
+    "edad": 65,
+    "ingresos": 41879,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 600,
+    "edad": 25,
+    "ingresos": 18721,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 601,
+    "edad": 37,
+    "ingresos": 17792,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 602,
+    "edad": 28,
+    "ingresos": 17140,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 603,
+    "edad": 62,
+    "ingresos": 11195,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 604,
+    "edad": 36,
+    "ingresos": 34618,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 605,
+    "edad": 29,
+    "ingresos": 21787,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 606,
+    "edad": 45,
+    "ingresos": 43377,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 607,
+    "edad": 33,
+    "ingresos": 44536,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 608,
+    "edad": 63,
+    "ingresos": 31988,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 609,
+    "edad": 51,
+    "ingresos": 46409,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 610,
+    "edad": 63,
+    "ingresos": 17052,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 611,
+    "edad": 34,
+    "ingresos": 5329,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 612,
+    "edad": 66,
+    "ingresos": 20770,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 613,
+    "edad": 67,
+    "ingresos": 30257,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 614,
+    "edad": 19,
+    "ingresos": 14307,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 615,
+    "edad": 34,
+    "ingresos": 22549,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 616,
+    "edad": 31,
+    "ingresos": 26869,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 617,
+    "edad": 19,
+    "ingresos": 44164,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 618,
+    "edad": 31,
+    "ingresos": 27066,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 619,
+    "edad": 23,
+    "ingresos": 43243,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 620,
+    "edad": 49,
+    "ingresos": 22687,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 621,
+    "edad": 55,
+    "ingresos": 46725,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 622,
+    "edad": 26,
+    "ingresos": 43004,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 623,
+    "edad": 66,
+    "ingresos": 7731,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 624,
+    "edad": 39,
+    "ingresos": 13702,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 625,
+    "edad": 44,
+    "ingresos": 28920,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 626,
+    "edad": 62,
+    "ingresos": 7633,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 627,
+    "edad": 70,
+    "ingresos": 49010,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 628,
+    "edad": 43,
+    "ingresos": 6664,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 629,
+    "edad": 53,
+    "ingresos": 6435,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 630,
+    "edad": 66,
+    "ingresos": 20564,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 631,
+    "edad": 66,
+    "ingresos": 17139,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 632,
+    "edad": 23,
+    "ingresos": 35882,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 633,
+    "edad": 34,
+    "ingresos": 14516,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 634,
+    "edad": 59,
+    "ingresos": 44850,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 635,
+    "edad": 55,
+    "ingresos": 24778,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 636,
+    "edad": 32,
+    "ingresos": 9581,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 637,
+    "edad": 56,
+    "ingresos": 8825,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 638,
+    "edad": 25,
+    "ingresos": 33039,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 639,
+    "edad": 56,
+    "ingresos": 43000,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 640,
+    "edad": 27,
+    "ingresos": 45825,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 641,
+    "edad": 27,
+    "ingresos": 32051,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 642,
+    "edad": 61,
+    "ingresos": 13524,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 643,
+    "edad": 66,
+    "ingresos": 17519,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 644,
+    "edad": 67,
+    "ingresos": 33339,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 645,
+    "edad": 31,
+    "ingresos": 29125,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 646,
+    "edad": 23,
+    "ingresos": 36261,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 647,
+    "edad": 34,
+    "ingresos": 36971,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 648,
+    "edad": 66,
+    "ingresos": 41767,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 649,
+    "edad": 53,
+    "ingresos": 24799,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 650,
+    "edad": 38,
+    "ingresos": 39486,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 651,
+    "edad": 65,
+    "ingresos": 17312,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 652,
+    "edad": 68,
+    "ingresos": 22428,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 653,
+    "edad": 34,
+    "ingresos": 9756,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 654,
+    "edad": 26,
+    "ingresos": 30653,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 655,
+    "edad": 39,
+    "ingresos": 10668,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 656,
+    "edad": 23,
+    "ingresos": 16273,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 657,
+    "edad": 61,
+    "ingresos": 29169,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 658,
+    "edad": 22,
+    "ingresos": 9543,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 659,
+    "edad": 19,
+    "ingresos": 24000,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 660,
+    "edad": 39,
+    "ingresos": 8419,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 661,
+    "edad": 31,
+    "ingresos": 19569,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 662,
+    "edad": 63,
+    "ingresos": 13454,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 663,
+    "edad": 62,
+    "ingresos": 22273,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 664,
+    "edad": 38,
+    "ingresos": 36784,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 665,
+    "edad": 37,
+    "ingresos": 42828,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 666,
+    "edad": 53,
+    "ingresos": 39976,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 667,
+    "edad": 50,
+    "ingresos": 42092,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 668,
+    "edad": 42,
+    "ingresos": 21750,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 669,
+    "edad": 31,
+    "ingresos": 11450,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 670,
+    "edad": 54,
+    "ingresos": 9625,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 671,
+    "edad": 66,
+    "ingresos": 12716,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 672,
+    "edad": 60,
+    "ingresos": 39311,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 673,
+    "edad": 30,
+    "ingresos": 29445,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 674,
+    "edad": 59,
+    "ingresos": 24763,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 675,
+    "edad": 46,
+    "ingresos": 34694,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 676,
+    "edad": 19,
+    "ingresos": 49551,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 677,
+    "edad": 31,
+    "ingresos": 11242,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 678,
+    "edad": 23,
+    "ingresos": 23753,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 679,
+    "edad": 22,
+    "ingresos": 46700,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 680,
+    "edad": 38,
+    "ingresos": 17815,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 681,
+    "edad": 36,
+    "ingresos": 36149,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 682,
+    "edad": 18,
+    "ingresos": 32761,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 683,
+    "edad": 46,
+    "ingresos": 45915,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 684,
+    "edad": 60,
+    "ingresos": 9301,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 685,
+    "edad": 35,
+    "ingresos": 9754,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 686,
+    "edad": 28,
+    "ingresos": 25586,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 687,
+    "edad": 30,
+    "ingresos": 24448,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 688,
+    "edad": 68,
+    "ingresos": 6086,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 689,
+    "edad": 57,
+    "ingresos": 22617,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 690,
+    "edad": 41,
+    "ingresos": 46512,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 691,
+    "edad": 58,
+    "ingresos": 15898,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 692,
+    "edad": 51,
+    "ingresos": 49689,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 693,
+    "edad": 30,
+    "ingresos": 18791,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 694,
+    "edad": 42,
+    "ingresos": 17505,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 695,
+    "edad": 64,
+    "ingresos": 28461,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 696,
+    "edad": 27,
+    "ingresos": 39561,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 697,
+    "edad": 68,
+    "ingresos": 36288,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 698,
+    "edad": 59,
+    "ingresos": 35108,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 699,
+    "edad": 52,
+    "ingresos": 12451,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 700,
+    "edad": 34,
+    "ingresos": 28264,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 701,
+    "edad": 52,
+    "ingresos": 38700,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 702,
+    "edad": 58,
+    "ingresos": 29535,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 703,
+    "edad": 25,
+    "ingresos": 23058,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 704,
+    "edad": 47,
+    "ingresos": 48013,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 705,
+    "edad": 58,
+    "ingresos": 32639,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 706,
+    "edad": 50,
+    "ingresos": 39995,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 707,
+    "edad": 22,
+    "ingresos": 45373,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 708,
+    "edad": 33,
+    "ingresos": 37818,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 709,
+    "edad": 40,
+    "ingresos": 20193,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 710,
+    "edad": 53,
+    "ingresos": 8026,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 711,
+    "edad": 67,
+    "ingresos": 22229,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 712,
+    "edad": 39,
+    "ingresos": 12379,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 713,
+    "edad": 40,
+    "ingresos": 49219,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 714,
+    "edad": 53,
+    "ingresos": 34372,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 715,
+    "edad": 39,
+    "ingresos": 49585,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 716,
+    "edad": 39,
+    "ingresos": 38204,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 717,
+    "edad": 68,
+    "ingresos": 40175,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 718,
+    "edad": 23,
+    "ingresos": 29791,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 719,
+    "edad": 34,
+    "ingresos": 44002,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 720,
+    "edad": 55,
+    "ingresos": 21200,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 721,
+    "edad": 52,
+    "ingresos": 31141,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 722,
+    "edad": 52,
+    "ingresos": 7346,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 723,
+    "edad": 67,
+    "ingresos": 40014,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 724,
+    "edad": 33,
+    "ingresos": 48264,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 725,
+    "edad": 56,
+    "ingresos": 26370,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 726,
+    "edad": 36,
+    "ingresos": 37891,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 727,
+    "edad": 65,
+    "ingresos": 42639,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 728,
+    "edad": 42,
+    "ingresos": 15178,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 729,
+    "edad": 66,
+    "ingresos": 48897,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 730,
+    "edad": 50,
+    "ingresos": 40884,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 731,
+    "edad": 53,
+    "ingresos": 13754,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 732,
+    "edad": 33,
+    "ingresos": 11262,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 733,
+    "edad": 29,
+    "ingresos": 21781,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 734,
+    "edad": 51,
+    "ingresos": 7949,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 735,
+    "edad": 35,
+    "ingresos": 5071,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 736,
+    "edad": 70,
+    "ingresos": 45190,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 737,
+    "edad": 58,
+    "ingresos": 33346,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 738,
+    "edad": 40,
+    "ingresos": 23077,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 739,
+    "edad": 57,
+    "ingresos": 39459,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 740,
+    "edad": 31,
+    "ingresos": 6568,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 741,
+    "edad": 47,
+    "ingresos": 29440,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 742,
+    "edad": 48,
+    "ingresos": 43432,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 743,
+    "edad": 55,
+    "ingresos": 22693,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 744,
+    "edad": 22,
+    "ingresos": 37772,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 745,
+    "edad": 36,
+    "ingresos": 42206,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 746,
+    "edad": 43,
+    "ingresos": 31899,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 747,
+    "edad": 49,
+    "ingresos": 32283,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 748,
+    "edad": 36,
+    "ingresos": 24485,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 749,
+    "edad": 58,
+    "ingresos": 22873,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 750,
+    "edad": 42,
+    "ingresos": 9847,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 751,
+    "edad": 31,
+    "ingresos": 5500,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 752,
+    "edad": 65,
+    "ingresos": 36722,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 753,
+    "edad": 70,
+    "ingresos": 22281,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 754,
+    "edad": 66,
+    "ingresos": 40534,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 755,
+    "edad": 69,
+    "ingresos": 34439,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 756,
+    "edad": 45,
+    "ingresos": 46583,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 757,
+    "edad": 58,
+    "ingresos": 23236,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 758,
+    "edad": 47,
+    "ingresos": 43231,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 759,
+    "edad": 35,
+    "ingresos": 8715,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 760,
+    "edad": 31,
+    "ingresos": 21249,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 761,
+    "edad": 53,
+    "ingresos": 39630,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 762,
+    "edad": 39,
+    "ingresos": 36707,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 763,
+    "edad": 41,
+    "ingresos": 28120,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 764,
+    "edad": 21,
+    "ingresos": 45556,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 765,
+    "edad": 44,
+    "ingresos": 15158,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 766,
+    "edad": 37,
+    "ingresos": 35474,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 767,
+    "edad": 47,
+    "ingresos": 25366,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 768,
+    "edad": 66,
+    "ingresos": 23501,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 769,
+    "edad": 70,
+    "ingresos": 46905,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 770,
+    "edad": 28,
+    "ingresos": 11858,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 771,
+    "edad": 51,
+    "ingresos": 17145,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 772,
+    "edad": 34,
+    "ingresos": 6783,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 773,
+    "edad": 70,
+    "ingresos": 48272,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 774,
+    "edad": 40,
+    "ingresos": 46706,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 775,
+    "edad": 25,
+    "ingresos": 37750,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 776,
+    "edad": 38,
+    "ingresos": 11854,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 777,
+    "edad": 62,
+    "ingresos": 36297,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 778,
+    "edad": 46,
+    "ingresos": 6978,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 779,
+    "edad": 55,
+    "ingresos": 21664,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 780,
+    "edad": 65,
+    "ingresos": 23907,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 781,
+    "edad": 57,
+    "ingresos": 25659,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 782,
+    "edad": 23,
+    "ingresos": 27953,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 783,
+    "edad": 18,
+    "ingresos": 23526,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 784,
+    "edad": 29,
+    "ingresos": 11123,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 785,
+    "edad": 21,
+    "ingresos": 16435,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 786,
+    "edad": 41,
+    "ingresos": 24825,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 787,
+    "edad": 59,
+    "ingresos": 18155,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 788,
+    "edad": 36,
+    "ingresos": 49737,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 789,
+    "edad": 61,
+    "ingresos": 40416,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 790,
+    "edad": 44,
+    "ingresos": 23308,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 791,
+    "edad": 18,
+    "ingresos": 19266,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 792,
+    "edad": 65,
+    "ingresos": 22936,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 793,
+    "edad": 67,
+    "ingresos": 15061,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 794,
+    "edad": 48,
+    "ingresos": 16158,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 795,
+    "edad": 70,
+    "ingresos": 28460,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 796,
+    "edad": 28,
+    "ingresos": 13769,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 797,
+    "edad": 69,
+    "ingresos": 33896,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 798,
+    "edad": 56,
+    "ingresos": 31152,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 799,
+    "edad": 42,
+    "ingresos": 44553,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 800,
+    "edad": 39,
+    "ingresos": 10925,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 801,
+    "edad": 63,
+    "ingresos": 40226,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 802,
+    "edad": 55,
+    "ingresos": 30498,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 803,
+    "edad": 66,
+    "ingresos": 5876,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 804,
+    "edad": 33,
+    "ingresos": 37396,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 805,
+    "edad": 69,
+    "ingresos": 42725,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 806,
+    "edad": 48,
+    "ingresos": 13939,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 807,
+    "edad": 19,
+    "ingresos": 28595,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 808,
+    "edad": 62,
+    "ingresos": 29647,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 809,
+    "edad": 57,
+    "ingresos": 24393,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 810,
+    "edad": 20,
+    "ingresos": 13046,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 811,
+    "edad": 26,
+    "ingresos": 42970,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 812,
+    "edad": 45,
+    "ingresos": 30008,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 813,
+    "edad": 27,
+    "ingresos": 19098,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 814,
+    "edad": 21,
+    "ingresos": 31516,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 815,
+    "edad": 46,
+    "ingresos": 16919,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 816,
+    "edad": 45,
+    "ingresos": 47012,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 817,
+    "edad": 28,
+    "ingresos": 7493,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 818,
+    "edad": 64,
+    "ingresos": 10303,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 819,
+    "edad": 38,
+    "ingresos": 30183,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 820,
+    "edad": 69,
+    "ingresos": 20628,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 821,
+    "edad": 66,
+    "ingresos": 8334,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 822,
+    "edad": 62,
+    "ingresos": 44579,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 823,
+    "edad": 68,
+    "ingresos": 5133,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 824,
+    "edad": 25,
+    "ingresos": 31715,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 825,
+    "edad": 52,
+    "ingresos": 24608,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 826,
+    "edad": 68,
+    "ingresos": 9896,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 827,
+    "edad": 57,
+    "ingresos": 49157,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 828,
+    "edad": 61,
+    "ingresos": 28411,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 829,
+    "edad": 63,
+    "ingresos": 23046,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 830,
+    "edad": 55,
+    "ingresos": 27452,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 831,
+    "edad": 27,
+    "ingresos": 28598,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 832,
+    "edad": 37,
+    "ingresos": 11966,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 833,
+    "edad": 33,
+    "ingresos": 43375,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 834,
+    "edad": 22,
+    "ingresos": 31633,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 835,
+    "edad": 58,
+    "ingresos": 27132,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 836,
+    "edad": 30,
+    "ingresos": 29633,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 837,
+    "edad": 54,
+    "ingresos": 35206,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 838,
+    "edad": 55,
+    "ingresos": 38555,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 839,
+    "edad": 34,
+    "ingresos": 47976,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 840,
+    "edad": 34,
+    "ingresos": 30250,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 841,
+    "edad": 63,
+    "ingresos": 43832,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 842,
+    "edad": 34,
+    "ingresos": 16691,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 843,
+    "edad": 26,
+    "ingresos": 45208,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 844,
+    "edad": 18,
+    "ingresos": 27747,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 845,
+    "edad": 31,
+    "ingresos": 26999,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 846,
+    "edad": 51,
+    "ingresos": 32177,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 847,
+    "edad": 64,
+    "ingresos": 18399,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 848,
+    "edad": 29,
+    "ingresos": 9035,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 849,
+    "edad": 18,
+    "ingresos": 43616,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 850,
+    "edad": 52,
+    "ingresos": 14299,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 851,
+    "edad": 34,
+    "ingresos": 18092,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 852,
+    "edad": 38,
+    "ingresos": 25760,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 853,
+    "edad": 18,
+    "ingresos": 38812,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 854,
+    "edad": 53,
+    "ingresos": 22315,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 855,
+    "edad": 27,
+    "ingresos": 36801,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 856,
+    "edad": 19,
+    "ingresos": 5531,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 857,
+    "edad": 30,
+    "ingresos": 30332,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 858,
+    "edad": 67,
+    "ingresos": 48781,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 859,
+    "edad": 34,
+    "ingresos": 27160,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 860,
+    "edad": 34,
+    "ingresos": 48797,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 861,
+    "edad": 66,
+    "ingresos": 25711,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 862,
+    "edad": 68,
+    "ingresos": 8570,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 863,
+    "edad": 22,
+    "ingresos": 13847,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 864,
+    "edad": 49,
+    "ingresos": 12765,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 865,
+    "edad": 32,
+    "ingresos": 38460,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 866,
+    "edad": 29,
+    "ingresos": 38302,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 867,
+    "edad": 30,
+    "ingresos": 38259,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 868,
+    "edad": 67,
+    "ingresos": 48553,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 869,
+    "edad": 70,
+    "ingresos": 32097,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 870,
+    "edad": 53,
+    "ingresos": 41563,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 871,
+    "edad": 60,
+    "ingresos": 36539,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 872,
+    "edad": 46,
+    "ingresos": 28859,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 873,
+    "edad": 27,
+    "ingresos": 13395,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 874,
+    "edad": 38,
+    "ingresos": 27961,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 875,
+    "edad": 62,
+    "ingresos": 17248,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 876,
+    "edad": 39,
+    "ingresos": 13684,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 877,
+    "edad": 53,
+    "ingresos": 28565,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 878,
+    "edad": 21,
+    "ingresos": 34340,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 879,
+    "edad": 24,
+    "ingresos": 24813,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 880,
+    "edad": 49,
+    "ingresos": 18096,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 881,
+    "edad": 52,
+    "ingresos": 43857,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 882,
+    "edad": 36,
+    "ingresos": 9412,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 883,
+    "edad": 20,
+    "ingresos": 24237,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 884,
+    "edad": 64,
+    "ingresos": 22107,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 885,
+    "edad": 22,
+    "ingresos": 32183,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 886,
+    "edad": 38,
+    "ingresos": 49206,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 887,
+    "edad": 26,
+    "ingresos": 28575,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 888,
+    "edad": 31,
+    "ingresos": 42536,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 889,
+    "edad": 35,
+    "ingresos": 29863,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 890,
+    "edad": 48,
+    "ingresos": 13540,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 891,
+    "edad": 46,
+    "ingresos": 39168,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 892,
+    "edad": 23,
+    "ingresos": 39943,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 893,
+    "edad": 51,
+    "ingresos": 17438,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 894,
+    "edad": 47,
+    "ingresos": 17138,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 895,
+    "edad": 51,
+    "ingresos": 32420,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 896,
+    "edad": 41,
+    "ingresos": 11004,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 897,
+    "edad": 64,
+    "ingresos": 21600,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 898,
+    "edad": 26,
+    "ingresos": 29268,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 899,
+    "edad": 55,
+    "ingresos": 35408,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 900,
+    "edad": 33,
+    "ingresos": 21110,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 901,
+    "edad": 62,
+    "ingresos": 26541,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 902,
+    "edad": 51,
+    "ingresos": 34338,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 903,
+    "edad": 21,
+    "ingresos": 14625,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 904,
+    "edad": 61,
+    "ingresos": 24161,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 905,
+    "edad": 24,
+    "ingresos": 21822,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 906,
+    "edad": 56,
+    "ingresos": 42692,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 907,
+    "edad": 43,
+    "ingresos": 9481,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 908,
+    "edad": 50,
+    "ingresos": 47153,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 909,
+    "edad": 56,
+    "ingresos": 26345,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 910,
+    "edad": 62,
+    "ingresos": 25618,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 911,
+    "edad": 22,
+    "ingresos": 43188,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 912,
+    "edad": 48,
+    "ingresos": 36539,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 913,
+    "edad": 35,
+    "ingresos": 11522,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 914,
+    "edad": 53,
+    "ingresos": 18163,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 915,
+    "edad": 69,
+    "ingresos": 29805,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 916,
+    "edad": 49,
+    "ingresos": 44171,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 917,
+    "edad": 47,
+    "ingresos": 39827,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 918,
+    "edad": 47,
+    "ingresos": 19865,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 919,
+    "edad": 69,
+    "ingresos": 7805,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 920,
+    "edad": 39,
+    "ingresos": 14839,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 921,
+    "edad": 38,
+    "ingresos": 49525,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 922,
+    "edad": 58,
+    "ingresos": 14081,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 923,
+    "edad": 23,
+    "ingresos": 39513,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 924,
+    "edad": 54,
+    "ingresos": 19351,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 925,
+    "edad": 56,
+    "ingresos": 36232,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 926,
+    "edad": 28,
+    "ingresos": 49876,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 927,
+    "edad": 61,
+    "ingresos": 39273,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 928,
+    "edad": 70,
+    "ingresos": 23730,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 929,
+    "edad": 64,
+    "ingresos": 34023,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 930,
+    "edad": 58,
+    "ingresos": 16822,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 931,
+    "edad": 54,
+    "ingresos": 47136,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 932,
+    "edad": 66,
+    "ingresos": 18270,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 933,
+    "edad": 70,
+    "ingresos": 7905,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 934,
+    "edad": 32,
+    "ingresos": 33111,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 935,
+    "edad": 55,
+    "ingresos": 17073,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 936,
+    "edad": 64,
+    "ingresos": 21574,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 937,
+    "edad": 69,
+    "ingresos": 10064,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 938,
+    "edad": 66,
+    "ingresos": 18363,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 939,
+    "edad": 34,
+    "ingresos": 17133,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 940,
+    "edad": 27,
+    "ingresos": 18094,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 941,
+    "edad": 46,
+    "ingresos": 39764,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 942,
+    "edad": 26,
+    "ingresos": 18165,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 943,
+    "edad": 54,
+    "ingresos": 43350,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 944,
+    "edad": 56,
+    "ingresos": 32436,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 945,
+    "edad": 65,
+    "ingresos": 48874,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 946,
+    "edad": 53,
+    "ingresos": 12517,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 947,
+    "edad": 33,
+    "ingresos": 43414,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 948,
+    "edad": 46,
+    "ingresos": 48139,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 949,
+    "edad": 24,
+    "ingresos": 37289,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 950,
+    "edad": 54,
+    "ingresos": 14679,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 951,
+    "edad": 55,
+    "ingresos": 24030,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 952,
+    "edad": 48,
+    "ingresos": 29294,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 953,
+    "edad": 20,
+    "ingresos": 45823,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 954,
+    "edad": 30,
+    "ingresos": 45936,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 955,
+    "edad": 48,
+    "ingresos": 41729,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 956,
+    "edad": 24,
+    "ingresos": 30168,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 957,
+    "edad": 54,
+    "ingresos": 32991,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 958,
+    "edad": 55,
+    "ingresos": 16887,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 959,
+    "edad": 18,
+    "ingresos": 28960,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 960,
+    "edad": 63,
+    "ingresos": 25303,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 961,
+    "edad": 57,
+    "ingresos": 7679,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 962,
+    "edad": 20,
+    "ingresos": 17716,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 963,
+    "edad": 26,
+    "ingresos": 31132,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 964,
+    "edad": 56,
+    "ingresos": 41128,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 965,
+    "edad": 43,
+    "ingresos": 27634,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 966,
+    "edad": 20,
+    "ingresos": 34517,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 967,
+    "edad": 29,
+    "ingresos": 45461,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 968,
+    "edad": 51,
+    "ingresos": 31562,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 969,
+    "edad": 41,
+    "ingresos": 14980,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 970,
+    "edad": 38,
+    "ingresos": 13748,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 971,
+    "edad": 68,
+    "ingresos": 48274,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 972,
+    "edad": 24,
+    "ingresos": 33484,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 973,
+    "edad": 44,
+    "ingresos": 31114,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 974,
+    "edad": 28,
+    "ingresos": 24264,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 975,
+    "edad": 44,
+    "ingresos": 47209,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 976,
+    "edad": 43,
+    "ingresos": 36473,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 977,
+    "edad": 55,
+    "ingresos": 27678,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 978,
+    "edad": 65,
+    "ingresos": 6317,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 979,
+    "edad": 61,
+    "ingresos": 42287,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 980,
+    "edad": 53,
+    "ingresos": 40284,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 981,
+    "edad": 48,
+    "ingresos": 31305,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 982,
+    "edad": 56,
+    "ingresos": 5274,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 983,
+    "edad": 67,
+    "ingresos": 24945,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 984,
+    "edad": 64,
+    "ingresos": 7713,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 985,
+    "edad": 43,
+    "ingresos": 44643,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 986,
+    "edad": 50,
+    "ingresos": 6205,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 987,
+    "edad": 28,
+    "ingresos": 29668,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 988,
+    "edad": 28,
+    "ingresos": 17810,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 989,
+    "edad": 32,
+    "ingresos": 27501,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 990,
+    "edad": 46,
+    "ingresos": 24996,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 991,
+    "edad": 44,
+    "ingresos": 16686,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 992,
+    "edad": 52,
+    "ingresos": 43730,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 993,
+    "edad": 42,
+    "ingresos": 24474,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 994,
+    "edad": 59,
+    "ingresos": 7081,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 995,
+    "edad": 49,
+    "ingresos": 25482,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 996,
+    "edad": 64,
+    "ingresos": 13136,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 997,
+    "edad": 58,
+    "ingresos": 28510,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 998,
+    "edad": 33,
+    "ingresos": 30613,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 999,
+    "edad": 70,
+    "ingresos": 34017,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 1000,
+    "edad": 48,
+    "ingresos": 12424,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 1001,
+    "edad": 33,
+    "ingresos": 44856,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1002,
+    "edad": 36,
+    "ingresos": 7798,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1003,
+    "edad": 57,
+    "ingresos": 49682,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1004,
+    "edad": 20,
+    "ingresos": 20289,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1005,
+    "edad": 27,
+    "ingresos": 30224,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 1006,
+    "edad": 55,
+    "ingresos": 49483,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 1007,
+    "edad": 64,
+    "ingresos": 32091,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1008,
+    "edad": 18,
+    "ingresos": 7602,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1009,
+    "edad": 70,
+    "ingresos": 15496,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1010,
+    "edad": 39,
+    "ingresos": 43130,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 1011,
+    "edad": 37,
+    "ingresos": 11535,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 1012,
+    "edad": 60,
+    "ingresos": 42958,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1013,
+    "edad": 66,
+    "ingresos": 30863,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1014,
+    "edad": 49,
+    "ingresos": 30910,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 1015,
+    "edad": 31,
+    "ingresos": 7893,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 1016,
+    "edad": 70,
+    "ingresos": 7152,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1017,
+    "edad": 26,
+    "ingresos": 28774,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1018,
+    "edad": 46,
+    "ingresos": 30692,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1019,
+    "edad": 22,
+    "ingresos": 19215,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1020,
+    "edad": 70,
+    "ingresos": 46983,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1021,
+    "edad": 70,
+    "ingresos": 7066,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 1022,
+    "edad": 40,
+    "ingresos": 20938,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 1023,
+    "edad": 53,
+    "ingresos": 30842,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1024,
+    "edad": 25,
+    "ingresos": 16820,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1025,
+    "edad": 33,
+    "ingresos": 22533,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1026,
+    "edad": 26,
+    "ingresos": 26857,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 1027,
+    "edad": 34,
+    "ingresos": 40034,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1028,
+    "edad": 65,
+    "ingresos": 10509,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 1029,
+    "edad": 23,
+    "ingresos": 42206,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1030,
+    "edad": 35,
+    "ingresos": 16550,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 1031,
+    "edad": 64,
+    "ingresos": 17871,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1032,
+    "edad": 55,
+    "ingresos": 15817,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1033,
+    "edad": 65,
+    "ingresos": 32163,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1034,
+    "edad": 33,
+    "ingresos": 29809,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 1035,
+    "edad": 55,
+    "ingresos": 26838,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1036,
+    "edad": 45,
+    "ingresos": 38031,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1037,
+    "edad": 34,
+    "ingresos": 41071,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 1038,
+    "edad": 61,
+    "ingresos": 5391,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1039,
+    "edad": 33,
+    "ingresos": 25876,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 1040,
+    "edad": 67,
+    "ingresos": 8167,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 1041,
+    "edad": 52,
+    "ingresos": 15018,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1042,
+    "edad": 64,
+    "ingresos": 18058,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 1043,
+    "edad": 37,
+    "ingresos": 44254,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1044,
+    "edad": 30,
+    "ingresos": 15714,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1045,
+    "edad": 46,
+    "ingresos": 37114,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1046,
+    "edad": 39,
+    "ingresos": 47142,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 1047,
+    "edad": 43,
+    "ingresos": 17444,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1048,
+    "edad": 35,
+    "ingresos": 28625,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 1049,
+    "edad": 31,
+    "ingresos": 22833,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 1050,
+    "edad": 29,
+    "ingresos": 19376,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1051,
+    "edad": 62,
+    "ingresos": 32236,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1052,
+    "edad": 27,
+    "ingresos": 33957,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 1053,
+    "edad": 52,
+    "ingresos": 16941,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 1054,
+    "edad": 40,
+    "ingresos": 11510,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1055,
+    "edad": 32,
+    "ingresos": 20332,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1056,
+    "edad": 64,
+    "ingresos": 34972,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1057,
+    "edad": 38,
+    "ingresos": 20842,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1058,
+    "edad": 20,
+    "ingresos": 49027,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1059,
+    "edad": 58,
+    "ingresos": 10855,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1060,
+    "edad": 28,
+    "ingresos": 31422,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1061,
+    "edad": 27,
+    "ingresos": 27653,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1062,
+    "edad": 39,
+    "ingresos": 14729,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1063,
+    "edad": 31,
+    "ingresos": 5877,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 1064,
+    "edad": 26,
+    "ingresos": 14954,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1065,
+    "edad": 22,
+    "ingresos": 25096,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1066,
+    "edad": 23,
+    "ingresos": 9099,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1067,
+    "edad": 62,
+    "ingresos": 12789,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1068,
+    "edad": 64,
+    "ingresos": 9909,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 1069,
+    "edad": 35,
+    "ingresos": 44317,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1070,
+    "edad": 32,
+    "ingresos": 8627,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1071,
+    "edad": 42,
+    "ingresos": 43621,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1072,
+    "edad": 61,
+    "ingresos": 33468,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1073,
+    "edad": 19,
+    "ingresos": 11072,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 1074,
+    "edad": 42,
+    "ingresos": 40493,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1075,
+    "edad": 64,
+    "ingresos": 30448,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 1076,
+    "edad": 62,
+    "ingresos": 8639,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1077,
+    "edad": 62,
+    "ingresos": 32825,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 1078,
+    "edad": 63,
+    "ingresos": 32306,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1079,
+    "edad": 29,
+    "ingresos": 44672,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 1080,
+    "edad": 31,
+    "ingresos": 48409,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 1081,
+    "edad": 37,
+    "ingresos": 6016,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1082,
+    "edad": 21,
+    "ingresos": 7955,
+    "genero": "M",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": true
+  },
+  {
+    "id_cliente": 1083,
+    "edad": 43,
+    "ingresos": 47561,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1084,
+    "edad": 44,
+    "ingresos": 34515,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1085,
+    "edad": 37,
+    "ingresos": 45415,
+    "genero": "M",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1086,
+    "edad": 45,
+    "ingresos": 9049,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1087,
+    "edad": 24,
+    "ingresos": 22659,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 1088,
+    "edad": 65,
+    "ingresos": 45412,
+    "genero": "F",
+    "ciudad": "Monterrey",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 1089,
+    "edad": 23,
+    "ingresos": 34566,
+    "genero": "F",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 1090,
+    "edad": 52,
+    "ingresos": 26268,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 1091,
+    "edad": 22,
+    "ingresos": 19831,
+    "genero": "F",
+    "ciudad": "Puebla",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 1092,
+    "edad": 25,
+    "ingresos": 35211,
+    "genero": "F",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Media",
+    "activo": false
+  },
+  {
+    "id_cliente": 1093,
+    "edad": 40,
+    "ingresos": 9067,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1094,
+    "edad": 24,
+    "ingresos": 15306,
+    "genero": "M",
+    "ciudad": "Tijuana",
+    "frecuencia_compra": "Baja",
+    "activo": true
+  },
+  {
+    "id_cliente": 1095,
+    "edad": 48,
+    "ingresos": 10668,
+    "genero": "M",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1096,
+    "edad": 41,
+    "ingresos": 35708,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": true
+  },
+  {
+    "id_cliente": 1097,
+    "edad": 57,
+    "ingresos": 43949,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  },
+  {
+    "id_cliente": 1098,
+    "edad": 43,
+    "ingresos": 39242,
+    "genero": "M",
+    "ciudad": "Guadalajara",
+    "frecuencia_compra": "Baja",
+    "activo": false
+  },
+  {
+    "id_cliente": 1099,
+    "edad": 53,
+    "ingresos": 22653,
+    "genero": "F",
+    "ciudad": "CDMX",
+    "frecuencia_compra": "Alta",
+    "activo": false
+  }
+]
