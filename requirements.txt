@@ -1,5 +1,5 @@
 pandas
 numpy
 matplotlib
-seaborn
 scikit-learn
+mysql-connector-python
